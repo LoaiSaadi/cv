@@ -9,29 +9,32 @@ version: 2
 name: Loai Saadi
 title: Computer Science Student
 email: saadiloai@gmail.com
-# website: www.github.com/LoaiSaadi
+# Removed website line
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 twitter_username: null
-github_username: LoaiSaadi
+github_username:  LoaiSaadi
 # stackoverflow_username: null
 # dribbble_username: null
 # facebook_username: null
 # flickr_username: null
 instagram_username: null
 linkedin_username: loai-saadi
+leetcode_username: saadiloai # Added LeetCode username
 # xing_username: null
 # pinterest_username: null
 youtube_username: null
 # googleplus_username: null
 # orcid_username: null
-leetcode_username: saadiloai  # Added LeetCode username
 
 # Additional icon links
 additional_links:
+- title: LeetCode
+  icon: fab fa-leetcode # Added LeetCode logo
+  url: https://leetcode.com/saadiloai/ # Link to LeetCode profile
 - title: null
   icon: fas fa-globe
   url: null
@@ -121,7 +124,7 @@ content:
         quote: >
           This certificate verifies that Loai Saadi successfully completed the course on 10/05/2024 as taught by Ardit Sulce on Udemy.
         description: |
-          Completed a comprehensive Python course, transitioning from beginner to proficient programmer by building 20 applications. Gained expertise in Python fundamentals, web development, automation, data analysis, machine learning, and tools such as Git, APIs, Flask, and Django. Developed a portfolio to demonstrate practical skills to potential employers. 
+          Completed a Python course, transitioning from beginner to proficient programmer by building 20 applications. Gained expertise in web development, automation, data analysis, machine learning, and tools like Git, Flask, and Django, creating a portfolio to showcase skills. 
 
   - title: A Little More About Me
     layout: text
