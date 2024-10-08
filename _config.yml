@@ -69,6 +69,14 @@ content:
           This project allowed me to improve my Java and database management skills by building a GUI-based application that handled tests, grading, and user management using Java and OCSF framework.
 
       - layout: top-middle
+        title: Parkly (Hasoub Hackathon)
+        link: github.com/LoaiSaadi
+        quote: >
+          Created a smart parking solution to help ease traffic congestion.
+        description: |
+          My team developed a JavaScript-based parking tracking model using Figma for design and offered a 40% discount for students.
+
+      - layout: top-middle
         title: DevQALink
         link: https://github.com/moslem-asaad/DevQALink
         additional_links:
