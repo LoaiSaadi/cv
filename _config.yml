@@ -57,37 +57,24 @@ content:
     content:
       - layout: top-middle
         title: Software Engineering, High School Test System
-        link: github.com/LoaiSaadi
+        link: https://github.com/LoaiSaadi/High-School-Test-System
         # link_text: Project Website
         additional_links:
           - title: LoaiSaadi/High-School-Test-System
             icon: fab fa-github
-            url: github.com/LoaiSaadi
+            url: https://github.com/LoaiSaadi/High-School-Test-System
         quote: >
           Built a comprehensive system for managing high school tests, grading, and login authentication.
         description: |
           This project allowed me to improve my Java and database management skills by building a GUI-based application that handled tests, grading, and user management using Java and OCSF framework.
 
       - layout: top-middle
-        title: Parkly (Hasoub Hackathon)
-        link: github.com/LoaiSaadi
+        title: DevQALink
+        link: https://github.com/moslem-asaad/DevQALink
         additional_links:
-          - title: LoaiSaadi/Parkly
+          - title: moslem-asaad/DevQALink
             icon: fab fa-github
-            url: github.com/LoaiSaadi/Parkly
-        quote: >
-          Created a smart parking solution to help ease traffic congestion.
-        description: |
-          My team developed a JavaScript-based parking tracking model using Figma for design and offered a 40% discount for students.
-
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: DevQALink (Dell)
-        link: dell.com
-        sub_title: Full-Stack Developer
-        caption: July 2024 - September 2024
+            url: https://github.com/moslem-asaad/DevQALink
         quote: >
           Built a test management framework to automate job scheduling and resource allocation.
         description: |
