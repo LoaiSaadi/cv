@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile-pic.png
 about_content: | 
   Hi, my name's Loai Saadi, a computer science student at the University of Haifa. I have experience in full-stack development, data analysis, and software engineering. I'm currently expanding my knowledge in AI and web development.
 
