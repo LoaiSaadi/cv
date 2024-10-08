@@ -9,14 +9,14 @@ version: 2
 name: Loai Saadi
 title: Computer Science Student
 email: saadiloai@gmail.com
-website: www.github.com/LoaiSaadi
+# website: www.github.com/LoaiSaadi
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 twitter_username: null
-github_username:  LoaiSaadi
+github_username: LoaiSaadi
 # stackoverflow_username: null
 # dribbble_username: null
 # facebook_username: null
@@ -28,6 +28,7 @@ linkedin_username: loai-saadi
 youtube_username: null
 # googleplus_username: null
 # orcid_username: null
+leetcode_username: saadiloai  # Added LeetCode username
 
 # Additional icon links
 additional_links:
@@ -116,11 +117,11 @@ content:
     content:
       - layout: left
         title: Python Mega Course, Learn Python in 60 Days
-        link: https://www.udemy.com/certificate/UC-96ebabb9-957c-4abd-8ce6-fca3f2e9026d/
+        link: udemy.com/certificate/UC-96ebabb9-957c-4abd-8ce6-fca3f2e9026d/
         quote: >
           This certificate verifies that Loai Saadi successfully completed the course on 10/05/2024 as taught by Ardit Sulce on Udemy.
         description: |
-          The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at the time of most recent completion. 
+          Completed a comprehensive Python course, transitioning from beginner to proficient programmer by building 20 applications. Gained expertise in Python fundamentals, web development, automation, data analysis, machine learning, and tools such as Git, APIs, Flask, and Django. Developed a portfolio to demonstrate practical skills to potential employers. 
 
   - title: A Little More About Me
     layout: text
