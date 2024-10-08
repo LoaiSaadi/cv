@@ -1,5 +1,5 @@
 # Site
-repository: LoaiSaadi/resume-theme
+repository: LoaiSaadi/cv
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -47,7 +47,7 @@ additional_links:
 # About Section
 about_profile_image: images/profile-picture.png
 about_content: | 
-  Hi, my name's Loai Saadi, a computer science student at the University of Haifa. I have experience in full-stack development, software engineering, and software development. I'm currently expanding my knowledge in AI and web development.
+  Hi, my name is Loai Saadi, a computer science student at the University of Haifa. I have experience in full-stack development, software engineering, and software development. I'm currently expanding my knowledge in AI and web development.
 
   I am most skilled in: <mark>Python</mark>, <mark>Java</mark>, <mark>JavaScript</mark>, and <mark>React</mark>.
 
@@ -57,7 +57,7 @@ content:
     content:
       - layout: top-middle
         title: Software Engineering, High School Test System
-        link: https://github.com/LoaiSaadi/High-School-Test-System
+        link: github.com/LoaiSaadi/High-School-Test-System
         # link_text: Project Website
         additional_links:
           - title: LoaiSaadi/High-School-Test-System
@@ -77,7 +77,7 @@ content:
 
       - layout: top-middle
         title: DevQALink (Scheduler Team)
-        link: https://github.com/moslem-asaad/DevQALink
+        link: github.com/moslem-asaad/DevQALink
         additional_links:
           - title: moslem-asaad/DevQALink
             icon: fab fa-github
@@ -89,16 +89,14 @@ content:
 
       - layout: top-middle
         title: DevQALink
-        link: https://github.com/LoaiSaadi/DevQALink
+        link: github.com/LoaiSaadi/DevQALink
         additional_links:
           - title: LoaiSaadi/DevQALink
             icon: fab fa-github
             url: https://github.com/LoaiSaadi/DevQALink
         quote: >
-          Automated QA and Dev Build Scheduling Framework.
-        description: |
           Completed independently a test management framework to automate job scheduling and resource allocation.
-
+        description: |
           This site, built with the MERN stack and MVC architecture in collaboration with Dell Technologies, facilitates automated test executions and job scheduling. It features JWT authentication, email notifications, and Jira bug ticketing, while incorporating Dell's branding through a cohesive blue, white, and grey design.
 
   - title: Education
@@ -111,7 +109,18 @@ content:
         quote: >
           Expanding knowledge in software development, AI, and web technologies.
         description: |
-          Courses include Algorithms (87), Software Engineering (94), and Intro to Computer Science (98).
+          Courses include Intro to Computer Science (98), Algorithms (87), Software Engineering (94), and Assembly (98).
+
+  - title: Certifications
+    layout: list
+    content:
+      - layout: left
+        title: Python Mega Course: Learn Python in 60 Days
+        link: https://www.udemy.com/certificate/UC-96ebabb9-957c-4abd-8ce6-fca3f2e9026d/
+        quote: >
+          This certificate verifies that Loai Saadi successfully completed the course on 10/05/2024 as taught by Ardit Sulce on Udemy.
+        description: |
+          The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at the time of most recent completion. 
 
   - title: A Little More About Me
     layout: text
