@@ -53,6 +53,18 @@ about_content: |
   I am most skilled in: <mark>Python</mark>, <mark>Java</mark>, <mark>JavaScript</mark>, and <mark>React</mark>.
 
 content:
+  - title: Technical Skills
+    layout: list
+    content:
+      - layout: left
+        title: Technical Skills
+        quote: >
+          A summary of my technical skills and proficiencies.
+        description: |
+          • Proficient in: C, Python, Java, JavaScript, React, Node.js, Express, VS Code, GitHub, Windows.  
+          • Experienced with: C++, C#, OOP, RESTful API, HTML, CSS, MySQL, MongoDB.  
+          • Familiar with: Postman, MATLAB, Heroku, Linux.  
+
   - title: Projects
     layout: list
     content:
@@ -119,7 +131,7 @@ content:
         title: Python Mega Course, Learn Python in 60 Days
         link: udemy.com/certificate/UC-96ebabb9-957c-4abd-8ce6-fca3f2e9026d/
         quote: >
-          This certificate verifies that Loai Saadi completed the course on 10/05/2024, taught by Ardit Sulce on Udemy.
+          This certificate verifies that Loai Saadi successfully completed the course on 10/05/2024 as taught by Ardit Sulce on Udemy.
         description: |
           Completed a Python course, transitioning from beginner to proficient programmer by building 20 applications. Gained expertise in web development, automation, data analysis, machine learning, and tools like Git, Flask, and Django, creating a portfolio to showcase skills. 
 
@@ -130,6 +142,18 @@ content:
       - Tutoring children in the "Perach" Program
       - Learning about AI and blockchain technologies
       - Developing projects and applications to solve real-world problems
+
+  - title: Languages
+    layout: list
+    content:
+      - layout: left
+        title: Languages
+        quote: >
+          My language proficiencies are as follows:
+        description: |
+          • Arabic – Mother tongue  
+          • Hebrew – Fluent  
+          • English - Fluent  
 
 # Footer
 footer_show_references: true
