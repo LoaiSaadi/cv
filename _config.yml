@@ -47,9 +47,9 @@ additional_links:
 # About Section
 about_profile_image: images/profile-picture.png
 about_content: | 
-  Hi, my name's Loai Saadi, a computer science student at the University of Haifa. I have experience in full-stack development, data analysis, and software engineering. I'm currently expanding my knowledge in AI and web development.
+  Hi, my name's Loai Saadi, a computer science student at the University of Haifa. I have experience in full-stack development, software engineering, and software development. I'm currently expanding my knowledge in AI and web development.
 
-  I am most skilled in: <mark>JavaScript</mark>, <mark>React</mark>, <mark>Python</mark>, and <mark>Java</mark>.
+  I am most skilled in: <mark>Python</mark>, <mark>Java</mark>, <mark>JavaScript</mark>, and <mark>React</mark>.
 
 content:
   - title: Projects
@@ -70,23 +70,36 @@ content:
 
       - layout: top-middle
         title: Parkly (Hasoub Hackathon)
-        link: github.com/LoaiSaadi
         quote: >
           Created a smart parking solution to help ease traffic congestion.
         description: |
           My team developed a JavaScript-based parking tracking model using Figma for design and offered a 40% discount for students.
 
       - layout: top-middle
-        title: DevQALink
+        title: DevQALink (Scheduler Team)
         link: https://github.com/moslem-asaad/DevQALink
         additional_links:
           - title: moslem-asaad/DevQALink
             icon: fab fa-github
             url: https://github.com/moslem-asaad/DevQALink
         quote: >
-          Built a test management framework to automate job scheduling and resource allocation.
+          DevQALink is a framework that connects QA and development teams, enabling test scheduling, detailed reports, and automatic bug ticket creation for smooth tracking.
         description: |
-          Worked as part of a four-member team to design and implement a framework for automating test management processes, incorporating AI analysis.
+          As part of the Scheduler Team, we created a system for managing test runs. Users can set one-time or recurring tests, prioritize jobs, and allocate resources for smooth execution.
+
+      - layout: top-middle
+        title: DevQALink
+        link: https://github.com/LoaiSaadi/DevQALink
+        additional_links:
+          - title: LoaiSaadi/DevQALink
+            icon: fab fa-github
+            url: https://github.com/LoaiSaadi/DevQALink
+        quote: >
+          Automated QA and Dev Build Scheduling Framework.
+        description: |
+          Completed independently a test management framework to automate job scheduling and resource allocation.
+
+          This site, built with the MERN stack and MVC architecture in collaboration with Dell Technologies, facilitates automated test executions and job scheduling. It features JWT authentication, email notifications, and Jira bug ticketing, while incorporating Dell's branding through a cohesive blue, white, and grey design.
 
   - title: Education
     layout: list
@@ -98,7 +111,7 @@ content:
         quote: >
           Expanding knowledge in software development, AI, and web technologies.
         description: |
-          Courses include Algorithms (87), Software Engineering (94), and Intro to Computer Science (98). I'm passionate about full-stack development and data analysis.
+          Courses include Algorithms (87), Software Engineering (94), and Intro to Computer Science (98).
 
   - title: A Little More About Me
     layout: text
