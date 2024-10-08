@@ -61,14 +61,6 @@ content:
       - Experienced with: C++, C#, OOP, RESTful API, HTML, CSS, MySQL, MongoDB.  
       - Familiar with: Postman, MATLAB, Heroku, Linux.  
 
-- title: A Little More About Me
-    layout: text
-    content: |
-      Alongside my interest in software development, I enjoy:
-      - Tutoring children in the "Perach" Program
-      - Learning about AI and blockchain technologies
-      - Developing projects and applications to solve real-world problems
-
   - title: Projects
     layout: list
     content:
