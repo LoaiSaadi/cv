@@ -54,16 +54,12 @@ about_content: |
 
 content:
   - title: Technical Skills
-    layout: list
-    content:
-      - layout: left
-        title: Technical Skills
-        quote: >
-          A summary of my technical skills and proficiencies.
-        description: |
-          • Proficient in: C, Python, Java, JavaScript, React, Node.js, Express, VS Code, GitHub, Windows.  
-          • Experienced with: C++, C#, OOP, RESTful API, HTML, CSS, MySQL, MongoDB.  
-          • Familiar with: Postman, MATLAB, Heroku, Linux.  
+    layout: text
+    content: |
+      A summary of my technical skills and proficiencies.
+      • Proficient in: C, Python, Java, JavaScript, React, Node.js, Express, VS Code, GitHub, Windows.  
+      • Experienced with: C++, C#, OOP, RESTful API, HTML, CSS, MySQL, MongoDB.  
+      • Familiar with: Postman, MATLAB, Heroku, Linux.  
 
   - title: Projects
     layout: list
@@ -144,17 +140,11 @@ content:
       - Developing projects and applications to solve real-world problems
 
   - title: Languages
-    layout: list
-    content:
-      - layout: left
-        title: Languages
-        quote: >
-          My language proficiencies are as follows:
-        description: |
-          • Arabic – Mother tongue  
-          • Hebrew – Fluent  
-          • English - Fluent  
-
+    layout: text
+    content: |
+      • Arabic – Mother tongue  
+      • Hebrew – Fluent  
+      • English - Fluent 
 # Footer
 footer_show_references: true
 
