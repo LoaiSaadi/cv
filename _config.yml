@@ -74,7 +74,7 @@ content:
         quote: >
           Created a smart parking solution to help ease traffic congestion.
         description: |
-          Collaborated in a four-member team to develop a parking tracking model with Parkly, using JavaScript and Figma, resulting in improved traffic flow and a 40% student discount.
+          Collaborated in a four-member team to develop a parking tracking model with Parkly, enhancing traffic flow and offering a 40% student discount.
 
       - layout: top-middle
         title: DevQALink (Scheduler Team)
@@ -84,9 +84,9 @@ content:
             icon: fab fa-github
             url: https://github.com/moslem-asaad/DevQALink
         quote: >
-          DevQALink is a framework that connects QA and development teams, enabling test scheduling, detailed reports, and automatic bug ticket creation for smooth tracking.
+          DevQALink connects QA and development teams for test scheduling, reporting, and automated bug creation.
         description: |
-          As part of the Scheduler Team, we created a system for managing test runs. Users can set one-time or recurring tests, prioritize jobs, and allocate resources for smooth execution.
+          Collaborated as part of a four-member team to develop DevQALink, a framework connecting QA and development teams. Designed a test management system that enables users to schedule one-time or recurring tests, prioritize jobs, and allocate resources for seamless execution.
 
       - layout: top-middle
         title: DevQALink
@@ -119,7 +119,7 @@ content:
         title: Python Mega Course, Learn Python in 60 Days
         link: udemy.com/certificate/UC-96ebabb9-957c-4abd-8ce6-fca3f2e9026d/
         quote: >
-          This certificate verifies that Loai Saadi successfully completed the course on 10/05/2024 as taught by Ardit Sulce on Udemy.
+          This certificate verifies that Loai Saadi completed the course on 10/05/2024, taught by Ardit Sulce on Udemy.
         description: |
           Completed a Python course, transitioning from beginner to proficient programmer by building 20 applications. Gained expertise in web development, automation, data analysis, machine learning, and tools like Git, Flask, and Django, creating a portfolio to showcase skills. 
 
