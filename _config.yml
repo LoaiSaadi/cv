@@ -23,7 +23,7 @@ github_username:  LoaiSaadi
 # flickr_username: null
 instagram_username: null
 linkedin_username: loai-saadi
-leetcode_username: saadiloai # Added LeetCode username
+# leetcode_username: null
 # xing_username: null
 # pinterest_username: null
 youtube_username: null
@@ -70,14 +70,14 @@ content:
         quote: >
           Built a comprehensive system for managing high school tests, grading, and login authentication.
         description: |
-          This project allowed me to improve my Java and database management skills by building a GUI-based application that handled tests, grading, and user management using Java and OCSF framework.
+          Collaborated in a four-member team to design server and client interfaces, manage exams and grading databases, and establish user login access. Utilized IntelliJ with Java, OCSF, GUI, ORM, and integrated database solutions for effective application development.
 
       - layout: top-middle
         title: Parkly (Hasoub Hackathon)
         quote: >
           Created a smart parking solution to help ease traffic congestion.
         description: |
-          My team developed a JavaScript-based parking tracking model using Figma for design and offered a 40% discount for students.
+          Collaborated in a four-member team to develop a parking tracking model with Parkly, using JavaScript and Figma, resulting in improved traffic flow and a 40% student discount.
 
       - layout: top-middle
         title: DevQALink (Scheduler Team)
