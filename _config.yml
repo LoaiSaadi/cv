@@ -84,6 +84,23 @@ content:
           <br><br>
 
       - layout: top-middle
+        title: AVL Tree Operations
+        link: github.com/LoaiSaadi/AVL-Tree-Operations-and-Queries
+        additional_links:
+          - title: LoaiSaadi/AVL-Tree-Operations-and-Queries
+            icon: fab fa-github
+            url: https://github.com/LoaiSaadi/AVL-Tree-Operations-and-Queries
+        quote: >
+          Overview of AVL tree operations, including insertion, deletion, and efficient query handling.
+        description: |
+          Implemented AVL tree operations, including insertion, deletion, search, and range queries. Highlighted the associated time complexities to demonstrate the effectiveness of AVL trees in maintaining balanced data structures, ensuring optimal performance in computational tasks.
+          
+      # Add spacing between projects
+      - layout: text
+        content: |
+          <br><br>
+
+      - layout: top-middle
         title: DevQALink (Scheduler Team)
         link: github.com/moslem-asaad/DevQALink
         additional_links:
@@ -91,7 +108,7 @@ content:
             icon: fab fa-github
             url: https://github.com/moslem-asaad/DevQALink
         quote: >
-          DevQALink connects QA and development teams for test scheduling, reporting, and automated bug creation.
+          DevQALink connects QA and development teams for test scheduling, reporting, and automated bug creation
         description: |
           Collaborated as part of a four-member team to develop DevQALink, a framework connecting QA and development teams. Designed a test management system that enables users to schedule one-time or recurring tests, prioritize jobs, and allocate resources for seamless execution.
 
@@ -108,7 +125,7 @@ content:
             icon: fab fa-github
             url: https://github.com/LoaiSaadi/DevQALink
         quote: >
-          Completed independently a test management framework to automate job scheduling and resource allocation.
+          Completed independently a test management framework to automate job scheduling and resource allocation
         description: |
           This site, built with the MERN stack and MVC architecture in collaboration with Dell Technologies, facilitates automated test executions and job scheduling. It features JWT authentication, email notifications, and Jira bug ticketing, while incorporating Dell's branding through a cohesive blue, white, and grey design.
 
@@ -120,21 +137,9 @@ content:
         caption: 2023
         sub_title: Hasoub Hackathon
         quote: >
-          Created a smart parking solution to help ease traffic congestion.
+          Created a smart parking solution to help ease traffic congestion
         description: |
           Participated in the Hasoub Port Hack Hackathon as part of a four-member team. Developed a parking tracking model using JavaScript and Figma, enhancing traffic flow and providing a 40% student discount.
-  
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: University of Haifa
-        caption: 2021 - Present
-        sub_title: BSc Computer Science
-        quote: >
-          Expanding knowledge in software development, AI, and web technologies.
-        description: |
-          Courses include Intro to Computer Science (98), Algorithms (87), Software Engineering (94), and Assembly (98).
 
   - title: Certifications
     layout: list
@@ -147,6 +152,18 @@ content:
         description: |
           Completed a Python course, transitioning from beginner to proficient programmer by building 20 applications. Gained expertise in web development, automation, data analysis, machine learning, and tools like Git, Flask, and Django, creating a portfolio to showcase skills. 
 
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: University of Haifa
+        caption: 2021 - Present
+        sub_title: BSc Computer Science
+        quote: >
+          Expanding knowledge in software development, AI, and web technologies
+        description: |
+          Courses include Intro to Computer Science (98), Algorithms (87), Software Engineering (94), and Assembly (98).
+  
   - title: A Little More About Me
     layout: text
     content: |
