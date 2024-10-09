@@ -35,9 +35,6 @@ additional_links:
 - title: null
   icon: fas fa-globe
   url: null
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -61,13 +58,18 @@ content:
       - Experienced with: C++, C#, OOP, RESTful API, HTML, CSS, MySQL, MongoDB.  
       - Familiar with: Postman, MATLAB, Heroku, Linux.  
 
+  # Separator line between sections (custom CSS or hr tag can be used here)
+  - title: Separator
+    layout: text
+    content: |
+      <hr style="border: 1px solid #ccc; margin-top: 40px; margin-bottom: 40px;">
+
   - title: Projects
     layout: list
     content:
       - layout: left
         title: Software Engineering, High School Test System
         link: github.com/LoaiSaadi/High-School-Test-System
-        # link_text: Project Website
         additional_links:
           - title: LoaiSaadi/High-School-Test-System
             icon: fab fa-github
@@ -108,6 +110,12 @@ content:
         description: |
           This site, built with the MERN stack and MVC architecture in collaboration with Dell Technologies, facilitates automated test executions and job scheduling. It features JWT authentication, email notifications, and Jira bug ticketing, while incorporating Dell's branding through a cohesive blue, white, and grey design.
 
+  # Another separator line between sections (custom CSS or hr tag can be used here)
+  - title: Separator
+    layout: text
+    content: |
+      <hr style="border: 1px solid #ccc; margin-top: 40px; margin-bottom: 40px;">
+
   - title: Education
     layout: list
     content:
@@ -145,6 +153,7 @@ content:
       - Arabic – Mother tongue  
       - Hebrew – Fluent  
       - English - Fluent 
+
 # Footer
 footer_show_references: true
 
