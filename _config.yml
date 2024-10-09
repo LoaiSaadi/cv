@@ -61,18 +61,23 @@ content:
         description: |
           Collaborated in a four-member team to design server and client interfaces, manage exams and grading databases, and establish user login access. Utilized IntelliJ with Java, OCSF, GUI, ORM, and integrated database solutions for effective application development.
 
-      # Add spacing between projects
+        # Add spacing between projects
       - layout: text
         content: |
           <br><br>
 
       - layout: top-middle
-        title: Parkly (Hasoub Hackathon)
+        title: Maze Pathfinding via Backtracking
+        link: LoaiSaadi/Mouse-in-a-Maze-Problem
+        additional_links:
+          - title: LoaiSaadi/Mouse-in-a-Maze-Problem
+            icon: fab fa-github
+            url: https://github.com/LoaiSaadi/Mouse-in-a-Maze-Problem
         quote: >
-          Created a smart parking solution to help ease traffic congestion.
+          Backtracking Algorithm for Maze Pathfinding with Multiple Solutions and Matrix Validation
         description: |
-          Collaborated in a four-member team to develop a parking tracking model with Parkly, enhancing traffic flow and offering a 40% student discount.
-
+          Implemented an existing backtracking algorithm in assembly to solve the "Mouse in a Maze" problem. Created functions to validate matrix input, search for valid paths, and display up to 3 solutions or report failure.
+          
       # Add spacing between projects
       - layout: text
         content: |
@@ -107,23 +112,17 @@ content:
         description: |
           This site, built with the MERN stack and MVC architecture in collaboration with Dell Technologies, facilitates automated test executions and job scheduling. It features JWT authentication, email notifications, and Jira bug ticketing, while incorporating Dell's branding through a cohesive blue, white, and grey design.
 
-        # Add spacing between projects
-      - layout: text
-        content: |
-          <br><br>
-
-      - layout: top-middle
-        title: Maze Pathfinding via Backtracking
-        link: https://github.com/LoaiSaadi/Mouse-in-a-Maze-Problem
-        additional_links:
-          - title: LoaiSaadi/Mouse-in-a-Maze-Problem
-            icon: fab fa-github
-            url: https://github.com/LoaiSaadi/Mouse-in-a-Maze-Problem
+  - title: Training
+    layout: list
+    content:
+      - layout: left
+        title: Parkly
+        caption: Hasoub Hackathon
         quote: >
-          Backtracking Algorithm for Maze Pathfinding with Multiple Solutions and Matrix Validation
+          Created a smart parking solution to help ease traffic congestion.
         description: |
-          Implemented an existing backtracking algorithm in assembly to solve the "Mouse in a Maze" problem. Created functions to validate matrix input, search for valid paths, and display up to 3 solutions or report failure.
-
+          Collaborated in a four-member team to develop a parking tracking model with Parkly, enhancing traffic flow and offering a 40% student discount.
+  
   - title: Education
     layout: list
     content:
