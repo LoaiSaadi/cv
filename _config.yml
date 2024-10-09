@@ -64,7 +64,7 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: Software Engineering, High School Test System
         link: github.com/LoaiSaadi/High-School-Test-System
         # link_text: Project Website
@@ -77,14 +77,14 @@ content:
         description: |
           Collaborated in a four-member team to design server and client interfaces, manage exams and grading databases, and establish user login access. Utilized IntelliJ with Java, OCSF, GUI, ORM, and integrated database solutions for effective application development.
 
-      - layout: top-middle
+      - layout: left
         title: Parkly (Hasoub Hackathon)
         quote: >
           Created a smart parking solution to help ease traffic congestion.
         description: |
           Collaborated in a four-member team to develop a parking tracking model with Parkly, enhancing traffic flow and offering a 40% student discount.
 
-      - layout: top-middle
+      - layout: left
         title: DevQALink (Scheduler Team)
         link: github.com/moslem-asaad/DevQALink
         additional_links:
@@ -96,7 +96,7 @@ content:
         description: |
           Collaborated as part of a four-member team to develop DevQALink, a framework connecting QA and development teams. Designed a test management system that enables users to schedule one-time or recurring tests, prioritize jobs, and allocate resources for seamless execution.
 
-      - layout: top-middle
+      - layout: left
         title: DevQALink
         link: github.com/LoaiSaadi/DevQALink
         additional_links:
