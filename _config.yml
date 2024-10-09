@@ -61,11 +61,10 @@ content:
         description: |
           Collaborated in a four-member team to design server and client interfaces, manage exams and grading databases, and establish user login access. Utilized IntelliJ with Java, OCSF, GUI, ORM, and integrated database solutions for effective application development.
 
-      # Separator line between projects
-      - title: Separator
-        layout: text
+      # Added empty lines between projects to create space
+      - layout: text
         content: |
-          <hr style="border: 1px solid #ccc; width: 70%; margin: 20px auto;">
+          <br><br>
 
       - layout: left
         title: Parkly (Hasoub Hackathon)
@@ -74,11 +73,10 @@ content:
         description: |
           Collaborated in a four-member team to develop a parking tracking model with Parkly, enhancing traffic flow and offering a 40% student discount.
 
-      # Separator line between projects
-      - title: Separator
-        layout: text
+      # Added empty lines between projects to create space
+      - layout: text
         content: |
-          <hr style="border: 1px solid #ccc; width: 70%; margin: 20px auto;">
+          <br><br>
 
       - layout: left
         title: DevQALink (Scheduler Team)
@@ -92,11 +90,10 @@ content:
         description: |
           Collaborated as part of a four-member team to develop DevQALink, a framework connecting QA and development teams. Designed a test management system that enables users to schedule one-time or recurring tests, prioritize jobs, and allocate resources for seamless execution.
 
-      # Separator line between projects
-      - title: Separator
-        layout: text
+      # Added empty lines between projects to create space
+      - layout: text
         content: |
-          <hr style="border: 1px solid #ccc; width: 70%; margin: 20px auto;">
+          <br><br>
 
       - layout: left
         title: DevQALink
