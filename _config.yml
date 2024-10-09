@@ -9,7 +9,7 @@ version: 2
 name: Loai Saadi
 title: Computer Science Student
 email: saadiloai@gmail.com
-# Removed website line
+phone: +972 549284867 # Added phone number
 
 # Dark Mode (true/false/never)
 darkmode: false
