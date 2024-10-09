@@ -15,20 +15,8 @@ email: saadiloai@gmail.com
 darkmode: false
 
 # Social links
-# twitter_username: null
 github_username:  LoaiSaadi
-# stackoverflow_username: null
-# dribbble_username: null
-# facebook_username: null
-# flickr_username: null
-# instagram_username: null
 linkedin_username: loai-saadi
-# leetcode_username: null
-# xing_username: null
-# pinterest_username: null
-# youtube_username: null
-# googleplus_username: null
-# orcid_username: null
 
 # Additional icon links
 additional_links:
@@ -58,12 +46,6 @@ content:
       - Experienced with: C++, C#, OOP, RESTful API, HTML, CSS, MySQL, MongoDB.  
       - Familiar with: Postman, MATLAB, Heroku, Linux.  
 
-  # Separator line between sections (custom CSS or hr tag can be used here)
-  - title: Separator
-    layout: text
-    content: |
-      <hr style="border: 1px solid #ccc; margin-top: 40px; margin-bottom: 40px;">
-
   - title: Projects
     layout: list
     content:
@@ -79,12 +61,24 @@ content:
         description: |
           Collaborated in a four-member team to design server and client interfaces, manage exams and grading databases, and establish user login access. Utilized IntelliJ with Java, OCSF, GUI, ORM, and integrated database solutions for effective application development.
 
+      # Separator line between projects
+      - title: Separator
+        layout: text
+        content: |
+          <hr style="border: 1px solid #ccc; width: 70%; margin: 20px auto;">
+
       - layout: left
         title: Parkly (Hasoub Hackathon)
         quote: >
           Created a smart parking solution to help ease traffic congestion.
         description: |
           Collaborated in a four-member team to develop a parking tracking model with Parkly, enhancing traffic flow and offering a 40% student discount.
+
+      # Separator line between projects
+      - title: Separator
+        layout: text
+        content: |
+          <hr style="border: 1px solid #ccc; width: 70%; margin: 20px auto;">
 
       - layout: left
         title: DevQALink (Scheduler Team)
@@ -98,6 +92,12 @@ content:
         description: |
           Collaborated as part of a four-member team to develop DevQALink, a framework connecting QA and development teams. Designed a test management system that enables users to schedule one-time or recurring tests, prioritize jobs, and allocate resources for seamless execution.
 
+      # Separator line between projects
+      - title: Separator
+        layout: text
+        content: |
+          <hr style="border: 1px solid #ccc; width: 70%; margin: 20px auto;">
+
       - layout: left
         title: DevQALink
         link: github.com/LoaiSaadi/DevQALink
@@ -109,12 +109,6 @@ content:
           Completed independently a test management framework to automate job scheduling and resource allocation.
         description: |
           This site, built with the MERN stack and MVC architecture in collaboration with Dell Technologies, facilitates automated test executions and job scheduling. It features JWT authentication, email notifications, and Jira bug ticketing, while incorporating Dell's branding through a cohesive blue, white, and grey design.
-
-  # Another separator line between sections (custom CSS or hr tag can be used here)
-  - title: Separator
-    layout: text
-    content: |
-      <hr style="border: 1px solid #ccc; margin-top: 40px; margin-bottom: 40px;">
 
   - title: Education
     layout: list
