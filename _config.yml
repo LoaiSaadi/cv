@@ -107,6 +107,23 @@ content:
         description: |
           This site, built with the MERN stack and MVC architecture in collaboration with Dell Technologies, facilitates automated test executions and job scheduling. It features JWT authentication, email notifications, and Jira bug ticketing, while incorporating Dell's branding through a cohesive blue, white, and grey design.
 
+        # Add spacing between projects
+      - layout: text
+        content: |
+          <br><br>
+
+      - layout: top-middle
+        title: Maze Pathfinding via Backtracking
+        link: https://github.com/LoaiSaadi/Mouse-in-a-Maze-Problem
+        additional_links:
+          - title: LoaiSaadi/Mouse-in-a-Maze-Problem
+            icon: fab fa-github
+            url: https://github.com/LoaiSaadi/Mouse-in-a-Maze-Problem
+        quote: >
+          Backtracking Algorithm for Maze Pathfinding with Multiple Solutions and Matrix Validation
+        description: |
+          Implemented an existing backtracking algorithm in assembly to solve the "Mouse in a Maze" problem. Created functions to validate matrix input, search for valid paths, and display up to 3 solutions or report failure.
+
   - title: Education
     layout: list
     content:
