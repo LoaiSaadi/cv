@@ -1,0 +1,286 @@
+# Site
+repository: LoaiSaadi/cv
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Loai Saadi
+title: BSc in Computer Science | NOC Engineer | DevOps & Cloud Enthusiast
+email: saadiloai@gmail.com
+phone: +972 549284867
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username: LoaiSaadi
+linkedin_username: loai-saadi
+
+# Additional icon links
+additional_links:
+  - title: null
+    icon: fas fa-globe
+    url: null
+
+# Google Analytics and Tag Manager
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+about_profile_image: images/profile-picture.png
+about_content: |
+  Hi, my name is Loai Saadi. I have a BSc in Computer Science and currently work as a NOC Engineer. Alongside my main role, I have worked on automation, monitoring, DevOps, and cloud-related projects in real environments.
+
+  My recent work includes Python automation, monitoring systems, cloud infrastructure, CI/CD, and computer vision projects. I am currently focused on growing toward DevOps, Cloud, and Software Engineering roles, and I am currently learning AWS courses to strengthen my cloud knowledge.
+
+  I am most skilled in: <mark>Python</mark>, <mark>AWS</mark>, <mark>Docker</mark>, <mark>Kubernetes</mark>, <mark>Terraform</mark>, and <mark>Selenium</mark>.
+
+content:
+  - title: Technical Skills
+    layout: text
+    content: |
+      A summary of my current technical skills and proficiencies.
+
+      - **DevOps & Cloud:** AWS (EC2, S3, Lambda, API Gateway...), Docker, Kubernetes (K8s / EKS), Terraform, Jenkins, GitHub Actions, Kafka, Elasticsearch, Kibana  
+      - **Programming:** Python, Java, JavaScript, C, C++, C#, SQL  
+      - **Automation & Testing:** Selenium, API validation, REST APIs, Postman, Pandas  
+      - **Databases:** MySQL, MongoDB, Firebase, Supabase, NoSQL databases  
+      - **Tools & Systems:** Git, GitHub, Linux, Windows, Networking, Monitoring, VS Code, Jira, Zendesk  
+      - **Monitoring & Observability:** Jira, Zendesk, Datadog, Zabbix, Grafana, CloudWatch, Prometheus, PagerDuty, Splunk, Mixpanel, Playbooks/Runbooks
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: NOC Engineer
+        caption: Current
+        sub_title: MoovingON
+        quote: >
+          Monitoring production systems, infrastructure, and services in real environments.
+        description: |
+          Working as a NOC Engineer responsible for monitoring and troubleshooting production environments, infrastructure, cloud servers, and applications. During task days, I also worked on automation and monitoring-related projects, building internal tools and validation systems using Python, Selenium, APIs, Jenkins, and cloud technologies.
+
+  - title: Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: Environment Validation Automation
+        quote: >
+          Python Selenium automation for environment checks, API validation, reporting, alerting, and Jenkins-based execution.
+        description: |
+          Built a Python Selenium automation tool for validating environments across multiple systems. Automated dashboard checks, API validation, performance monitoring, Excel reporting, alerting, and scheduled execution through Jenkins.
+
+      - layout: top-middle
+        title: CLI and WebUI Automation
+        quote: >
+          Python Selenium automation integrating CLI and WebUI flows for validation, alerting, and Jenkins execution.
+        description: |
+          Built a Python Selenium automation tool integrating CLI and WebUI flows to validate secrets, roles, and authentication across environments. Included end-to-end checks, alerting workflows, and Jenkins-based execution.
+
+      - layout: top-middle
+        title: Farms Health Monitoring Automation
+        quote: >
+          Python Selenium monitoring automation for report validation, health checks, alert generation, and scheduled execution.
+        description: |
+          Built a Python Selenium monitoring automation to download reports, validate daily health metrics, generate grouped alerts, and run on a scheduled basis through Jenkins.
+
+      - layout: top-middle
+        title: DevOps Final Project
+        link: github.com/LoaiSaadi/DevOps-Final-Project
+        additional_links:
+          - title: LoaiSaadi/DevOps-Final-Project
+            icon: fab fa-github
+            url: https://github.com/LoaiSaadi/DevOps-Final-Project
+        quote: >
+          End-to-end cloud system on AWS using Terraform, Kubernetes, Kafka, and observability tools.
+        description: |
+          Designed and deployed an end-to-end cloud architecture on AWS. Used Terraform for provisioning, Docker and Kubernetes for orchestration, and Kafka for scalable event-driven processing. Integrated API Gateway, S3, and Lambda into the workflow, and implemented centralized logging and observability with Elasticsearch and Kibana.
+
+      - layout: top-middle
+        title: Monocular VO Mapping
+        link: github.com/LoaiSaadi/monocular-vo-mapping-pnp-loop
+        additional_links:
+          - title: LoaiSaadi/monocular-vo-mapping-pnp-loop
+            icon: fab fa-github
+            url: https://github.com/LoaiSaadi/monocular-vo-mapping-pnp-loop
+        quote: >
+          RGB SLAM and visual odometry pipeline with 3D reconstruction and loop closure.
+        description: |
+          Built a monocular RGB SLAM pipeline in Python to estimate camera trajectory and reconstruct a 3D point-cloud map in real time. Implemented feature matching, epipolar geometry, triangulation, PnP relocalization, and loop-closure visualization using OpenCV and related vision techniques.
+
+      - layout: top-middle
+        title: Two Flags Pawn Chess Agent
+        link: github.com/LoaiSaadi/Two-Flags-Pawn-Chess-Agent
+        additional_links:
+          - title: LoaiSaadi/Two-Flags-Pawn-Chess-Agent
+            icon: fab fa-github
+            url: https://github.com/LoaiSaadi/Two-Flags-Pawn-Chess-Agent
+        quote: >
+          AI pawn-only chess agent with Minimax, Alpha-Beta pruning, and TCP tournament integration.
+        description: |
+          Built a pawn-only chess AI using Minimax and Alpha-Beta pruning as part of an AI course project. Integrated the agent with a TCP client for tournament play, and added support for logging, replay, and performance analysis for repeated match evaluation.
+
+      - layout: top-middle
+        title: 6-DoF Camera Motion Estimation
+        link: github.com/Michael3001/Advanced_Robotics
+        additional_links:
+          - title: Michael3001/Advanced_Robotics
+            icon: fab fa-github
+            url: https://github.com/Michael3001/Advanced_Robotics
+        quote: >
+          Camera motion estimation from images and video using feature matching and geometric vision.
+        description: |
+          Built a Python and OpenCV tool that estimates 6-DoF camera motion, meaning rotation and translation in 3D space, from two images and from video. Improved robustness with SIFT/ORB, Lowe’s ratio test, RANSAC outlier filtering, smoothing, and ArUco-based scale reference when available.
+
+      - layout: top-middle
+        title: HiveMindMapV2
+        link: github.com/LoaiSaadi/HiveMindMapV2
+        additional_links:
+          - title: LoaiSaadi/HiveMindMapV2
+            icon: fab fa-github
+            url: https://github.com/LoaiSaadi/HiveMindMapV2
+        quote: >
+          Real-time collaborative mind mapping application using React and Supabase.
+        description: |
+          Developed a real-time collaborative web application for creating and managing mind maps. Implemented multi-user synchronization, authentication, real-time updates, and structured visual collaboration using React and Supabase.
+
+      - layout: text
+        content: |
+          <br><br>
+
+      - layout: top-middle
+        title: Software Engineering, High School Test System
+        link: github.com/LoaiSaadi/High-School-Test-System
+        additional_links:
+          - title: LoaiSaadi/High-School-Test-System
+            icon: fab fa-github
+            url: https://github.com/LoaiSaadi/High-School-Test-System
+        quote: >
+          Built a comprehensive system for managing high school tests, grading, and login authentication.
+        description: |
+          Collaborated in a four-member team to design server and client interfaces, manage exams and grading databases, and establish user login access. Utilized IntelliJ with Java, OCSF, GUI, ORM, and integrated database solutions for effective application development.
+
+      - layout: text
+        content: |
+          <br><br>
+
+      - layout: top-middle
+        title: DevQALink (Scheduler Team)
+        link: github.com/moslem-asaad/DevQALink
+        additional_links:
+          - title: moslem-asaad/DevQALink
+            icon: fab fa-github
+            url: https://github.com/moslem-asaad/DevQALink
+        quote: >
+          DevQALink connects QA and development teams for test scheduling, reporting, and automated bug creation
+        description: |
+          Collaborated as part of a four-member team to develop DevQALink, a framework connecting QA and development teams. Designed a test management system that enables users to schedule one-time or recurring tests, prioritize jobs, and allocate resources for seamless execution.
+
+      - layout: text
+        content: |
+          <br><br>
+
+      - layout: top-middle
+        title: DevQALink
+        link: github.com/LoaiSaadi/DevQALink
+        additional_links:
+          - title: LoaiSaadi/DevQALink
+            icon: fab fa-github
+            url: https://github.com/LoaiSaadi/DevQALink
+        quote: >
+          Completed independently a test management framework to automate job scheduling and resource allocation
+        description: |
+          This site, built with the MERN stack and MVC architecture in collaboration with Dell Technologies, facilitates automated test executions and job scheduling. It features JWT authentication, email notifications, and Jira bug ticketing, while incorporating Dell's branding through a cohesive blue, white, and grey design.
+
+  - title: Certifications
+    layout: list
+    content:
+      - layout: left
+        title: DevOps Course
+        caption: 2025 - 2026
+        sub_title: HackerU
+        quote: >
+          Completed a hands-on DevOps course including a full end-to-end cloud project.
+        description: |
+          Covered AWS, Terraform, Docker, Kubernetes, Kafka, CI/CD with GitHub Actions and Jenkins, and observability with Elasticsearch and Kibana.
+
+      - layout: left
+        title: מחשבים - איך עובד האינטרנט?
+        caption: 2025
+        sub_title: Campus IL
+        quote: >
+          Introduction to networking and how the internet works.
+        description: |
+          Learned core networking concepts, protocols, and internet architecture fundamentals.
+
+      - layout: left
+        title: Pairs Mentorship Program 7th Cohort
+        caption: 2024 - 2025
+        sub_title: Hasoub
+        quote: >
+          Mentorship program focused on career development and interview preparation.
+        description: |
+          Developed professional skills including communication, interviewing, and self-learning strategies.
+
+      - layout: left
+        title: Fullstack AI (with Dell)
+        caption: 2024
+        sub_title: Tsofen-Tashbik
+        quote: >
+          Training program combining software development and AI concepts.
+        description: |
+          Gained experience in full-stack development and collaborative project work with modern tools.
+
+      - layout: left
+        title: Python Mega Course; Learn Python in 60 Days, Build 20 Apps
+        caption: 2023
+        sub_title: Udemy
+        quote: >
+          Built 20 real-world applications while learning Python.
+        description: |
+          Covered automation, web development, data analysis, and basic machine learning concepts.
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: University of Haifa
+        caption: 2021 - 2026
+        sub_title: BSc in Computer Science
+        quote: >
+          Building a strong foundation in software engineering, AI, computer vision, and systems.
+        description: |
+          Computer Science graduate from the University of Haifa. Worked on projects in software engineering, artificial intelligence, computer vision, assembly, and system design.
+
+  - title: A Little More About Me
+    layout: text
+    content: |
+      Alongside my interest in DevOps, software engineering, and automation, I enjoy:
+
+      - Building real projects that solve operational and technical problems
+      - Learning more about AWS, cloud systems, and infrastructure
+      - Exploring AI, computer vision, and backend engineering
+      - Continuously improving my technical and professional skills
+
+  - title: Languages
+    layout: text
+    content: |
+      - Arabic - Mother tongue
+      - Hebrew - Fluent
+      - English - Fluent
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
